@@ -1,0 +1,33 @@
+{
+  "name": "react-native-identix-rfid",
+  "title": "React Native Identix Rfid",
+  "version": "0.0.1",
+  "description": "Native library for communication with the Identix RFID reader via bluetooh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelitocsg/react-native-identix-rfid.git",
+    "baseUrl": "https://github.com/angelitocsg/react-native-identix-rfid"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": {
+    "name": "Angelito Casagrande",
+    "email": "angelito@angelito.com.br"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "^16.8.1",
+    "react-native": ">=0.60.0-rc.0 <1.0.x"
+  },
+  "devDependencies": {
+    "react": "^16.9.0",
+    "react-native": "^0.61.5"
+  }
+}
